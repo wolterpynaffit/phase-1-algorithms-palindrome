@@ -1,5 +1,16 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  const hello = word
+  const reverse = word.split('').reverse().join('')
+ 
+              
+  if (reverse === hello) {
+   return true;
+  }
+  
+  else {
+   return false;
+  }
 }
 
 /* 
@@ -23,3 +34,4 @@ if (require.main === module) {
 }
 
 module.exports = isPalindrome;
+ 

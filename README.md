@@ -1,15 +1,5 @@
 # Palindrome Lab
 
-## Learning Goals
-
-- Practice algorithmic problem solving
-
-## Introduction
-
-Now that we've discussed what an algorithm is and defined a problem-solving
-approach, it's time to apply that to your first algorithm problem! Fork and
-clone this lab, then **read the instructions before running any tests**.
-
 ## Instructions
 
 Write a function `isPalindrome` that will receive one argument, a string. Your
